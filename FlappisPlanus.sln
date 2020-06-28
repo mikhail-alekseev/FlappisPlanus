@@ -5,6 +5,12 @@ VisualStudioVersion = 16.0.29613.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlappisPlanus", "FlappisPlanus\FlappisPlanus.csproj", "{E90EECCB-F2F6-4CB9-ADC5-1148C0600197}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EE45EB0-B81B-4382-94DF-D2C4B8EE9064}"
+	ProjectSection(SolutionItems) = preProject
+		flappisplanus.screenshot.png = flappisplanus.screenshot.png
+		REAMDE.MD = REAMDE.MD
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
